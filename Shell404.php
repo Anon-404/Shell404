@@ -68,7 +68,7 @@ function shellfunc() {
         }
         #input {
             text-align: left;
-            width: 50%;
+            width: 73%;
             height: 33px;
             border: 3px solid lime;
             border-radius: 8px;
@@ -82,7 +82,7 @@ function shellfunc() {
         }
         #Run {
             text-align: center;
-            width: 20%;
+            width: 23%;
             height: 40px;
             border: 3px solid lime;
             border-radius: 8px;
