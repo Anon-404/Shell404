@@ -1,2 +1,2 @@
 # Shell404
-Shell404 🗣 : by Anon404 
+Shell404 🗣 : PHP web shell by Anon404
