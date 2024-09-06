@@ -26,8 +26,8 @@ $pass = "Shell404";
 
 1. 🌐 Open the web shell in your browser.
 2. 🔑 Login using the default credentials:
-   - **Username**: Shell404
-   - **Password**: Shell404
+   - `Username : Shell404`
+   - `Password : Shell404`
 3. After logging in, you can:
    - ⚙️ **Command Input**: Enter system commands and view the results in real-time.
    - 📁 **File Upload**: Use the file upload feature to transfer files to the server.
